@@ -1,0 +1,4 @@
+[submodule "greeting-tools"]
+	path = greeting-tools
+	url = https://github.com/meekrosoft/greeting-tools.git
+	branch = .
